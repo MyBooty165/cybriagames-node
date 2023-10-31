@@ -1,8 +1,8 @@
 {
   "name": "cybriagames",
   "version": "1.0.0",
-  "description": " CybriaGames is a static unblocked games website with 200+ games, people are able to suggest new games, report bugs and cloak tabs. If you fork, please star to support us!",
-  "main": "server.js",
+  "description": "CybriaGames is a static unblocked games website with 200+ games, people are able to suggest new games, report bugs and cloak tabs. If you fork, please star to support us!",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
