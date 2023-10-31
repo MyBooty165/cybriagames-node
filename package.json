@@ -1,0 +1,20 @@
+{
+  "name": "cybriagames",
+  "version": "1.0.0",
+  "description": " CybriaGames is a static unblocked games website with 200+ games, people are able to suggest new games, report bugs and cloak tabs. If you fork, please star to support us!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "child_process": "^1.0.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.6",
+    "simple-git": "^3.20.0"
+  }
+}
