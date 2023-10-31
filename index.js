@@ -6,7 +6,7 @@ const git = simpleGit();
 
 // Replace this with your GitHub repository URL
 const repoURL = 'https://github.com/CybriaTech/CybriaGames.git';
-const repoFolder = 'static'; // The folder where the repository will be cloned
+const repoFolder = 'CybriaGames'; // The folder where the repository will be cloned
 
 // Function to clone and update the repository
 const cloneAndPull = async () => {
